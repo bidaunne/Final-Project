@@ -1319,7 +1319,7 @@ MonoBehaviour:
   jumpHold: 0
   groundLayer:
     serializedVersion: 2
-    m_Bits: 64
+    m_Bits: 0
   groundCheck: {fileID: 1546857998}
   runSpeed: 30
   jumpForce: 6.2
