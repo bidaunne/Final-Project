@@ -2,13 +2,13 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags: []
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
   - 
@@ -38,8 +38,26 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Parallax_B_5
+    uniqueID: 791025911
+    locked: 0
+  - name: Parallax_B_4
+    uniqueID: 1470488511
+    locked: 0
+  - name: Parallax_B_3
+    uniqueID: 4237731589
+    locked: 0
+  - name: Parallax_B_2
+    uniqueID: 1563913373
+    locked: 0
+  - name: Parallax_B_1
+    uniqueID: 3513395851
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Parallax_F_1
+    uniqueID: 1528999911
     locked: 0
   m_RenderingLayers:
   - Default
@@ -50,27 +68,4 @@ TagManager:
   - Light Layer 5
   - Light Layer 6
   - Light Layer 7
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  m_MigratedRenderPipelines: []
