@@ -59,6 +59,9 @@ TagManager:
   - name: Parallax_F_1
     uniqueID: 1528999911
     locked: 0
+  - name: UI
+    uniqueID: 1277612423
+    locked: 0
   m_RenderingLayers:
   - Default
   - Light Layer 1
