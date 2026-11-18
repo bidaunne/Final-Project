@@ -14,5 +14,26 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Sprite_Anim_Fred/Scenes/GoodEnding.unity
     guid: 0203d039308d7bb479a57209f4e0bedc
+  - enabled: 1
+    path: Assets/Sprite_Anim_Fred/Scenes/OpeningScreen 1.unity
+    guid: e8807d8f6fe064cb09b745d537a54956
+  - enabled: 1
+    path: Assets/Sprite_Anim_Fred/Scenes/OpeningScreen 2.unity
+    guid: 91038a17486f44f0398bdfb681e423a3
+  - enabled: 1
+    path: Assets/Sprite_Anim_Fred/Scenes/OpeningScreen 3.unity
+    guid: c161520ba28874b658bf5fe0de619582
+  - enabled: 1
+    path: Assets/Sprite_Anim_Fred/Scenes/OpeningScreen 4.unity
+    guid: a62e336383c3541c3bcae92570dc7e30
+  - enabled: 1
+    path: Assets/Sprite_Anim_Fred/Scenes/OpeningScreen 5.unity
+    guid: 52e14be037ae64cd78a0c804d3496235
+  - enabled: 1
+    path: Assets/Sprite_Anim_Fred/Scenes/OpeningScreen 6.unity
+    guid: fa33363ccc50f446da925c21ca6c4460
+  - enabled: 1
+    path: Assets/Sprite_Anim_Fred/Scenes/OpeningScreen 7.unity
+    guid: 4f369d436320445d6a3e78187bd695d0
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
